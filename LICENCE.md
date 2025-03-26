@@ -18,12 +18,7 @@ Par équité, il est entendu que **cinquante pour cent (50 %) des bénéfices ne
 
 Ce geste permet de soutenir une dynamique d’éveil collectif, d’assurer l’équité entre les utilisateurs, et de faire vivre le projet dans la durée.
 
-Les contributions peuvent se faire directement à **Benjamin Amiel**, via ce RIB :
-
-**Titulaire** : Monsieur AMIEL BENJAMIN  
-**Banque** : Fortuneo, Tour Ariane - 5, place de la Pyramide 92088 Paris La Défense  
-**IBAN** : FR76 1451 8292 6708 7515 3494 045  
-**BIC / SWIFT** : FTNOFRP1XXX
+Les contributions peuvent se faire directement à **Benjamin Amiel**, en contactant benj34090@gmail.com
 
 ---
 
