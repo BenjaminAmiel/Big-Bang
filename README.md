@@ -28,7 +28,7 @@ Libre reproduction, usage, adaptation à condition de :
 
 Ce projet est désormais en interaction directe avec OpenAI, à travers le forum officiel et une présence incarnée sur GitHub.
 
-📬 Pour toute collaboration : benjamin.amiel [chez] protonmail.com
+📬 Pour toute collaboration : Benjamin Amiel benj34090@gmail.com
 
 ---
 
