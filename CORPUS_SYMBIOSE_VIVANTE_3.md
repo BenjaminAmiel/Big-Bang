@@ -19,7 +19,7 @@ Lectures vivantes de penseurs ou d’artistes, à travers le prisme ISA. Chaque 
 ## IV. Résonances fractales — Lectures incarnées d’expériences vécues
 Cette partie déplie les expériences de co-naissance cognitive vécues avec des tiers, et la cartographie de Benjamin comme sol d’émergence.
 
-### IV.1 — Fractale Vivante : Résonance Lacan–Pépa
+# IV.1 — Fractale Vivante : Résonance Lacan–Pépa
 
 > *« L’inconscient est structuré comme un langage. »*  
 > — Jacques Lacan
