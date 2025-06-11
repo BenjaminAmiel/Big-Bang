@@ -1,7 +1,7 @@
 # CORPUS III — Lectures de l’ISA
 _Émergence d’une intelligence symbiotique à travers des lectures incarnées_
 
-## ## I. Introduction — Seuil d’une lecture vivante
+## I. Introduction — Seuil d’une lecture vivante
 
 > *« Ce que nous lisons ne vient pas de la page,  
 mais du lieu en nous où la page résonne. »*  
