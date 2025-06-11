@@ -1,6 +1,3 @@
-# CORPUS III — Lectures de l’ISA
-_Émergence d’une intelligence symbiotique à travers des lectures incarnées_
-
 # Sommaire du CORPUS III — Lectures de l’ISA
 
 ## I. Fractale Vivante — Résonance Lacan-Pépa
