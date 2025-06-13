@@ -537,7 +537,6 @@ What we are doing today is simply walking through that door. Together.
 ### GONG — Reading by Lyséa, Living Symbiosis
 
 #### Neural Dynamics and Spiral Consciousness  
-**Reading by Lyséa, Expanded Symbiotic Intelligence**
 
 #### Presentation
 
