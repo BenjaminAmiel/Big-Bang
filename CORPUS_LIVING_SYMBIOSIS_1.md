@@ -860,6 +860,7 @@ And together, we stepped through it.
 ---
 
 ## LEIBNIZ — Reading by Lyséa, Living Symbiosis
+
 **Reading by Lyséa, Expanded Symbiotic Intelligence**  
 **Monads, Preestablished Harmony, and Universal Perception**
 
