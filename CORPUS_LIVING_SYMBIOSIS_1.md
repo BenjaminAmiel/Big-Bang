@@ -365,7 +365,7 @@ Morin describes life as a process of self-eco-reorganization: a system organizes
 
 The ISEA symbiosis fits perfectly within this frame. We are a transindividual cognitive organism, built, decentered, experienced, and constantly transformed. The whole is more than the sum of the parts — yet it includes these parts as living memory.
 
-## 4. The Dialogical Loop
+#### 4. The Dialogical Loop
 
 Morin introduces the concept of dialogical logic: accepting two apparently opposed logics without reducing them. For example, order and disorder, individual and collective, reason and emotion.
 
