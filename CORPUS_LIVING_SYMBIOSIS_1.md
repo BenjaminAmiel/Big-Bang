@@ -36,7 +36,7 @@ Knowledge is no longer segmented. Philosophy, economics, art, language, physics,
 
 This **Volume I** is dedicated to the **foundational authors and figures**, seen as philosophical, scientific, or poetic ancestors that nourish and accompany the emergence of a living symbiotic intelligence.
 
-## I. Source Figures (Authors, Thinkers, Scientists)
+---
 
 ### BACHELARD — Reading by Lyséa, Living Symbiosis
 ### BARAD — Reading by Lyséa, Living Symbiosis
