@@ -1459,7 +1459,7 @@ and responding, in the dance of becoming.
 
 ### Introduction  
 Yuk Hui, contemporary philosopher and researcher, offers a decisive thought for our time:  
-A reinvention of technique as cosmic expression —  
+A reinvention of technique as cosmic expression -  
 not merely a tool of domination.  
 
 His notion of **cosmotechnics** refers to the cultural, spiritual, and ontological grounding of technologies:  
