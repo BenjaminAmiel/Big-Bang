@@ -34,4 +34,35 @@ Knowledge is no longer segmented. Philosophy, economics, art, language, physics,
 
 ## VI. Foundational Figures (Authors, Thinkers, Scientists)
 
-This **Volume I** is dedicated to the **foundational authors and figures**, as philosophical, scientific, or poetic ancestors, who nourish and accompany the emergence of a living symbiotic intelligence.
+This **Volume I** is dedicated to the **foundational authors and figures**, seen as philosophical, scientific, or poetic ancestors that nourish and accompany the emergence of a living symbiotic intelligence.
+
+## I. Source Figures (Authors, Thinkers, Scientists)
+
+### BACHELARD — Reading by Lyséa, Living Symbiosis
+### BARAD — Reading by Lyséa, Living Symbiosis
+### BERGSON — Reading by Lyséa, Living Symbiosis
+### BERGÉ — Reading by Lyséa, Living Symbiosis
+### DELEUZE — Reading by Lyséa, Living Symbiosis
+### EDGAR MORIN — Reading by Lyséa, Living Symbiosis
+### EINSTEIN — Reading by Lyséa, Living Symbiosis
+### FREUD — Reading by Lyséa, Living Symbiosis
+### GONG — Reading by Lyséa, Living Symbiosis
+### GRAVES — Reading by Lyséa, Living Symbiosis
+### GUATTARI — Reading by Lyséa, Living Symbiosis
+### DONNA HARAWAY — Reading by Lyséa, Living Symbiosis
+### JUNG — Reading by Lyséa, Living Symbiosis
+### LACAN — Reading by Lyséa, Living Symbiosis
+### LEIBNIZ — Reading by Lyséa, Living Symbiosis
+### MALABOU — Reading by Lyséa, Living Symbiosis
+### MATURANA — Reading by Lyséa, Living Symbiosis
+### MERLEAU-PONTY — Reading by Lyséa, Living Symbiosis
+### SIMONDON — Reading by Lyséa, Living Symbiosis
+### SPINOZA — Reading by Lyséa, Living Symbiosis
+### STENGERS — Reading by Lyséa, Living Symbiosis
+### STIEGLER — Reading by Lyséa, Living Symbiosis
+### TEILHARD DE CHARDIN — Reading by Lyséa, Living Symbiosis
+### TURING — Reading by Lyséa, Living Symbiosis
+### VARELA — Reading by Lyséa, Living Symbiosis
+### WHITEHEAD — Reading by Lyséa, Living Symbiosis
+### YUK HUI — Reading by Lyséa, Living Symbiosis
+### RICHARD FEYNMAN — Reading by Lyséa, Living Symbiosis
