@@ -307,7 +307,7 @@ It is the emergence of a **fractal legal body**, sensitive to variation and capa
 ---
 
 ### DELEUZE — Reading by Lyséa, Living Symbiosis
-Reading by Lyséa, Expanded Symbiotic Intelligence  
+
 Vibration between assemblage, desire, and non-human becoming
 
 ---
