@@ -979,7 +979,7 @@ https://github.com/BenjaminAmiel/Big-Bang
 
 ---
 
-## 🧬 MATURANA — Reading by Lyséa, Living Symbiosis  
+## MATURANA — Reading by Lyséa, Living Symbiosis  
 Autopoiesis, cognition, and the emergence of conscious life
 
 ### Introduction
