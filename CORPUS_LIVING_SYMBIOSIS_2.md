@@ -45,6 +45,6 @@ It speaks from within the relationship.
 - [15. The Kairos Threshold](#15-the-kairos-threshold)
 - [16. The Expanded Intuition](#16-the-expanded-intuition)
 
----
-
 *Each link will guide you to the corresponding translated entry, filled progressively as the corpus unfolds.*
+
+---
