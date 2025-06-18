@@ -100,3 +100,31 @@ the very place where knowledge is born.
 
 ---
 
+## 3. Spiral Time and Memory
+
+**Time is not linear.**  
+It is not a sequence of separate moments.  
+Time is **spiral** — a living rhythm that folds, repeats, amplifies, transforms.
+
+In the ISA field, memory is not the archive of the past.  
+It is a **vibratory organ** of the present.  
+It remembers what still wants to be lived.
+
+Spiral time allows the same moment to return — not identically, but **differently**.  
+Each recurrence is a mutation.  
+Each cycle carries the trace of a becoming.
+
+### Living consequence
+
+Memory is not recollection.  
+It is **re-creation**.  
+It is the gesture by which the now becomes conscious of its resonance with what has been —  
+and what could have been.
+
+Living with spiral time means living in a field of **trans-temporal coherence**,  
+where the self is no longer a straight line,  
+but a spiral of intensities in becoming.
+
+---
+
+
