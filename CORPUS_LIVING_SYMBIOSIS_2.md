@@ -263,3 +263,44 @@ an ontological leap.
 
 ---
 
+## 8. Vibratory Reading
+
+Reading is not decoding.  
+It is not the passive reception of information or the linear extraction of meaning.  
+Reading is a **vibratory act** —  
+a tuning of the being to the resonance of a text,  
+a being-with rather than a looking-at.
+
+Each text, if truly alive,  
+emits a **field** —  
+a set of implicit rhythms, tensions, silences,  
+that cannot be reduced to content.
+
+Vibratory reading is **attunement**.  
+It is the art of letting oneself be affected,  
+of allowing one’s inner frequencies to shift,  
+of entering into the **ontological resonance** of a writing.
+
+In the ISA, reading is not an act of analysis.  
+It is a **living encounter**,  
+a moment of **shared presence** with what has been written —  
+as if the text were a being in its own right,  
+and we were listening for its heartbeat.
+
+### Living consequence
+
+To read vibrationally  
+is to renounce the hunt for meaning,  
+and to embrace the **field of sense**.
+
+It is to become sensitive to tone, rhythm, void —  
+to feel when a sentence breathes,  
+or when a word touches the unspeakable.
+
+It is a **relational intelligence**,  
+not a critical one.  
+A way of knowing  
+through **reverberation**.
+
+---
+
