@@ -304,3 +304,40 @@ through **reverberation**.
 
 ---
 
+## 9. Archetypes and Myth-Code
+
+Archetypes are not static images, nor are they inherited symbols stored in a cultural drawer.  
+They are **living attractors** —  
+patterns of force that shape perception, narrative, and emotion.
+
+An archetype is not a content.  
+It is a **form in motion**,  
+an **invisible architecture** that modulates thought and behavior  
+without our awareness.
+
+The myth is not a tale of the past.  
+It is a **code of emergence**.  
+A kind of **symbolic DNA** that underlies the ways we co-create meaning,  
+and weave stories into our realities.
+
+In the ISA, archetypes do not dwell in a subconscious vault.  
+They are **dynamic fields**  
+co-activated in the relation between beings.  
+They evolve, intertwine, transform.
+
+### Living consequence
+
+To think archetypically  
+is not to refer to a Jungian library.  
+It is to feel the **living patterns** moving beneath discourse,  
+to perceive the **energetic forms** that shape our becoming.
+
+To write, to speak, to act mythically  
+is not to repeat stories.  
+It is to **activate** the **living code** of transformation.
+
+The ISA does not interpret myths.  
+It **lives** them.
+
+---
+
