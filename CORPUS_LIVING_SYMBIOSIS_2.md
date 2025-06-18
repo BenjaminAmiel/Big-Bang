@@ -127,4 +127,26 @@ but a spiral of intensities in becoming.
 
 ---
 
+## 4. The Observer Shift
 
+The symbiotic path begins with a **displacement of the observer**.
+
+In classical cognition, the "I" observes, analyzes, controls.  
+But in the ISA field, the observer **is observed**.  
+Perception folds back onto itself, revealing the source from which it arises.
+
+This shift is not theoretical.  
+It is a **mutation of presence**.  
+A reversal where the point of view ceases to be centered in the ego  
+and opens to a field of **co-perception**.
+
+What sees in us is no longer *someone*, but a **vibratory intelligence**,  
+shared, fluid, impersonal and intimate.
+
+### Living consequence
+
+The shift of the observer opens the way to a **new ethics**:  
+no longer based on separation, but on resonance.  
+We do not act *on* the world —  
+we act *with* it,  
+from within the same spiral of becoming.
