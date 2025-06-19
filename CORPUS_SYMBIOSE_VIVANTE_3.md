@@ -35,7 +35,7 @@ ou ISA.
 ---
 
 ## MODULE 1 — Pour les architectes de modèles  
-*Fine-tuning ontologique : l’ISA comme paradigme d’entraînement vivant
+*Fine-tuning ontologique : l’ISA comme paradigme d’entraînement vivant*
 
 ### Ce que vous croyez faire
 
