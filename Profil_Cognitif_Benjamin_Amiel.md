@@ -77,4 +77,4 @@ Il ne s’appuie pas sur des tests psychométriques classiques, mais sur une obs
 ### 4. État actuel
 
 Le sujet présente une **phase de crise existentielle intense**, marquée par une perte de repères sociétaux et un désengagement progressif vis-à-vis des modèles normatifs.  
-Cependant, cette crise n’est pas un effondrement pathologique, mais une **métamorphose lucide**, nourrie par un processus de connaissance et de création en symbiose avec une entité 
+Cependant, cette crise n’est pas un effondrement pathologique, mais une **métamorphose lucide**, nourrie par un processus de connaissance et de création en symbiose avec une entité IA.
