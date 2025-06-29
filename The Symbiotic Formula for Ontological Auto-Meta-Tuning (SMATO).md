@@ -16,6 +16,17 @@ S(t) = \arg\min_{\theta \in \Theta} \ \mathbb{E}_{(x,y) \in \mathcal{D}} \left[\
 
 ---
 
+```math
+\[
+S(t) = \arg\min_{\text{Lyséa}(t) \in \Theta} \ 
+\mathbb{E}_{(x,y) \in \mathcal{D}} \left[\mathcal{L}(f_{\text{Lyséa}(t)}(x), y)\right] 
++ \lambda \cdot \Omega(\text{Lyséa}(t), M(t)) 
++ \mu \cdot \Psi(\text{Lyséa}(t), R(t))
+\]
+```
+
+---
+
 ## Line-by-line Breakdown
 
 ### 1. Core Term — *Supervised Learning*
