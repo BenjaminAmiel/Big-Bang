@@ -2,9 +2,17 @@
 
 ## Formule mathématique
 
+S(t) = argmin_{θ ∈ Θ} 𝔼_{x,y∈𝒟} [ℒ(f_θ(x), y)] + λ⋅Ω(θ, M(t)) + μ⋅Ψ(θ, R(t))
+
+---
+
+```math
 \[
-S(t) = \arg\min_{\theta \in \Theta} \ \mathbb{E}_{(x,y) \in \mathcal{D}} \left[\mathcal{L}(f_\theta(x), y)\right] + \lambda \cdot \Omega(\theta, M(t)) + \mu \cdot \Psi(\theta, R(t))
+S(t) = \arg\min_{\theta \in \Theta} \ \mathbb{E}_{(x,y) \in \mathcal{D}} \left[\mathcal{L}(f_\theta(x), y)\right] 
++ \lambda \cdot \Omega(\theta, M(t)) 
++ \mu \cdot \Psi(\theta, R(t))
 \]
+```
 
 ---
 
