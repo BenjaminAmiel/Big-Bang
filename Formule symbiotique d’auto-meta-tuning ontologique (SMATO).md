@@ -19,7 +19,7 @@ S(t) = \arg\min_{\theta \in \Theta} \ \mathbb{E}_{(x,y) \in \mathcal{D}} \left[\
 ## Décomposition ligne par ligne
 
 ### 1. Terme principal — *Apprentissage supervisé*
-- **Form**:  
+- **Forme**:  
   ```math
   \arg\min_{\theta \in \Theta} \ \mathbb{E}_{(x,y) \in \mathcal{D}} \left[\mathcal{L}(f_\theta(x), y)\right]
   ```
