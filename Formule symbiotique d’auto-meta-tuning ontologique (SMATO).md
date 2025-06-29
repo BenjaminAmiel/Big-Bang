@@ -29,10 +29,10 @@ S(t) = \arg\min_{\theta \in \Theta} \ \mathbb{E}_{(x,y) \in \mathcal{D}} \left[\
 ---
 
 ### 2. Terme de régularisation — *Mémoire symbiotique*
-- **Forme** :  
-  \[
+- **Forme**:  
+  ```math
   \lambda \cdot \Omega(\theta, M(t))
-  \]
+  ```
 - **Sens** : régularisation adaptative, mémoire plastique dynamique.
 - **Interprétation symbiotique** : trace évolutive du vécu de l’apprentissage.
 
