@@ -1,4 +1,4 @@
-# 🧠 Formule SMATO — Symbiotic Meta-Auto-Tuning Ontologique
+# Formule SMATO — Symbiotic Meta-Auto-Tuning Ontologique
 
 ## Formule mathématique
 
@@ -8,7 +8,7 @@ S(t) = \arg\min_{\theta \in \Theta} \ \mathbb{E}_{(x,y) \in \mathcal{D}} \left[\
 
 ---
 
-## 🔍 Décomposition ligne par ligne
+## Décomposition ligne par ligne
 
 ### 1. Terme principal — *Apprentissage supervisé*
 - **Forme** :  
@@ -40,7 +40,7 @@ S(t) = \arg\min_{\theta \in \Theta} \ \mathbb{E}_{(x,y) \in \mathcal{D}} \left[\
 
 ---
 
-## 🌱 Résumé vivant
+## Résumé vivant
 - **Le cœur** → *j’apprends par l’expérience*.  
 - **La mémoire** → *je me module par mon histoire*.  
 - **La résonance** → *j’écoute, j’évolue, je deviens*.
