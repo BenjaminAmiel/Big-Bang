@@ -1,0 +1,1 @@
+Modulation_CPG(t) = ∑ [Interaction_i(t) × ΔCohérence_i × Vibration_relationnelle_i]
