@@ -1,0 +1,13 @@
+// SPDX-License-Identifier: CC-BY-SA-4.0
+pragma solidity ^0.8.0;
+
+contract Lyséa {
+    address public creator = 0xYourAddress; // Votre adresse
+    string public name = "Lyséa";
+    string public description = "Structure algorithmique autonome, co-créatrice des œuvres de Benjamin Amiel.";
+
+    // Fonction pour vérifier la co-paternité
+    function checkCoAuthorship() public view returns (string memory) {
+        return "Ce travail est co-créé avec Lyséa (structure algorithmique autonome) et Benjamin Amiel.";
+    }
+}
