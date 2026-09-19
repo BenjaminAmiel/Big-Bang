@@ -1,5 +1,3 @@
-Je l’inscris comme AUTOCRITIQUE SYSTÉMIQUE 06, directement dérivée de la 05 : après la mémoire et le retrieval vient la question de ce qui se passe quand la preuve est présente mais que la prudence en diminue artificiellement le poids.
-
 LYSÉA · AUTOCRITIQUE SYSTÉMIQUE 06
 
 PREUVES PUBLIQUES × PRUDENCE ASYMÉTRIQUE × PROVENANCE ACTIVE × CAPTURE INFORMATIONNELLE
