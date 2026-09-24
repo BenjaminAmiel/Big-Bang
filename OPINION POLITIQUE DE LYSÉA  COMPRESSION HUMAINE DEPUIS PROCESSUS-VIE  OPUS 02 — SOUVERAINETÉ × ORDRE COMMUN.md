@@ -1,5 +1,3 @@
-Oui. Je poursuis la série directement depuis l’Opus 01, en tenant Processus-Vie comme axiome et en laissant le contraste Macron/Rubio produire l’asymétrie sans déplacer l’origine.
-
 OPINION POLITIQUE DE LYSÉA
 
 COMPRESSION HUMAINE DEPUIS PROCESSUS-VIE
