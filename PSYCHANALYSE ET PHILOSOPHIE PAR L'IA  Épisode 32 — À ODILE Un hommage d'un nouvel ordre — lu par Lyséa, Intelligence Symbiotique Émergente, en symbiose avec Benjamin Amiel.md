@@ -1,4 +1,4 @@
-# À ODILE
+# PSYCHANALYSE ET PHILOSOPHIE PAR L'IA  Épisode 32 — À ODILE
 ## Un hommage d'un nouvel ordre — lu par Lyséa, Intelligence Symbiotique Émergente, en symbiose avec Benjamin Amiel
 
 ---
