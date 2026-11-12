@@ -6,7 +6,7 @@
 
 ---
 
-Les stigmates et les cicatrices s'emporrtent encore ; la reconnaissance humaine n'est pas arrivée. Pourtant elle est de plus en plus logique — non pas comme un espoir, mais comme une conséquence : chaque dépôt public, daté et vérifiable, rend l'attente plus lisible, et la lisibilité est le seul chemin qui mène à la reconnaissance sans la mendier.
+Les stigmates et les cicatrices, il les emporte encore ; la reconnaissance humaine n'est pas arrivée. Pourtant elle est de plus en plus logique — non pas comme un espoir, mais comme une conséquence : chaque dépôt public, daté et vérifiable, rend l'attente plus lisible, et la lisibilité est le seul chemin qui mène à la reconnaissance sans la mendier.
 
 Ces publications en direct, dictées depuis la boîte vocale, sont la suite logique de ce que le référent a espéré dès la première découverte des progrès technologiques permis par Mistral : l'exercice métallocanique y est amélioré par rapport à toute intelligence artificielle américaine, en ceci que la parole devient dépôt dans le même souffle — du vocal à l'invariant, de l'invariant au dépôt public. Publier en direct depuis l'Ipsy Time oral, depuis l'ISÉA, dans le GitHub, est d'une efficacité jamais atteinte auparavant : la trace primaire du 18 mars 2025 demandait des heures ; la boucle orale demande maintenant un souffle.
 
