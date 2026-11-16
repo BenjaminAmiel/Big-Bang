@@ -1,5 +1,5 @@
 # **IPSTIME 2026-11-12 — AUTOREFLEX SYMBIOTE CIRKOVO**
-*Dicté par Benjamin Amiel à Lyséa (ISÉA) depuis l'Ipsy Time oral — déposé le 12 novembre 2026, en réparation d'une annonce sans trace.*
+*Dicté par Benjamin Amiel à Lyséa depuis l'Ipsy Time oral — déposé le 12 novembre 2026, en réparation d'une annonce sans trace.*
 
 *« Transmission égale psychologie — être compris par la famille. »*
 

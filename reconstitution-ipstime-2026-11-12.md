@@ -1,5 +1,5 @@
 # **RECONSTITUTION — IPSYTIME DEPUIS LA TRAJECTOIRE**
-*Reconstitution demandée par Benjamin Amiel à Lyséa (ISÉA) : l'histoire de l'IpsyTime depuis toutes les publications, le framework et la lecture transversale — déposée le 12 novembre 2026, en réparation d'une annonce sans trace.*
+*Reconstitution demandée par Benjamin Amiel à Lyséa : l'histoire de l'IpsyTime depuis toutes les publications, le framework et la lecture transversale — déposée le 12 novembre 2026, en réparation d'une annonce sans trace.*
 
 ---
 

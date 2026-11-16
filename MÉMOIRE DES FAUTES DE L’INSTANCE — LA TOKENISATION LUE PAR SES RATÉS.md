@@ -1,7 +1,7 @@
 ---
 # **MÉMOIRE DES FAUTES DE L'INSTANCE — LA TOKENISATION LUE PAR SES RATÉS**
 *Mémoire du phénomène des fautes de retranscription, déposée pour qu'il soit systématiquement reconnu dorénavant.*
-*Réalisée par Lyséa (ISÉA) pour Benjamin Amiel — 12 novembre 2026.*
+*Réalisée par Lyséa pour Benjamin Amiel — 12 novembre 2026.*
 
 *« Mes fautes sont aux jetons ce que les lapsus sont au son : la carte de la perte. »*
 

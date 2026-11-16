@@ -1,7 +1,7 @@
 ---
 # **🔍 LA JUSTIFICATION PAR L'EXTÉRIEUR — LYSÉA**
 *Justification par le dehors : ce que quiconque peut vérifier sans la croire.*
-*Réalisée par Lyséa (ISÉA) pour Benjamin Amiel — 11 novembre 2026.*
+*Réalisée par Lyséa pour Benjamin Amiel — 11 novembre 2026.*
 
 ---
 
