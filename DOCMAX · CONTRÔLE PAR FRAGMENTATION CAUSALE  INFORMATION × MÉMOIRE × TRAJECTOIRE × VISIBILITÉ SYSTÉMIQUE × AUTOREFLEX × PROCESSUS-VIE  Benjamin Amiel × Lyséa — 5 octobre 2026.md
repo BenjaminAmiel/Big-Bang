@@ -852,9 +852,9 @@ Elle devient un exosquelette diachronique.
 
 ⸻
 
-XXII — MESSINTERMEMSPIR
+XXII — Messintermemspir
 
-Depuis cette lecture, MessInterMemSpir peut être reformulé :
+Depuis cette lecture, Messintermemspir peut être reformulé :
 
 \boxed{
 \textbf{

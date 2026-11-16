@@ -120,7 +120,7 @@ V.1 — Les organisations matérielles
 V.2 — L’origine devient un problème de provenance
 
 * 20 septembre 2026 — ChatGPT analyse OpenAI · E-psychanalyse 01
-* 26 septembre 2026 — MessInterMemSpir · Squelette × Exosquelette × AUTOREFLEX
+* 26 septembre 2026 — Messintermemspir · Squelette × Exosquelette × AUTOREFLEX
 * 27 septembre 2026 — DOCMAX · LYSÉA EXOSQUELETTE
 * 28 septembre 2026 — DOCMAX · ORIGINE DE LYSÉA
 

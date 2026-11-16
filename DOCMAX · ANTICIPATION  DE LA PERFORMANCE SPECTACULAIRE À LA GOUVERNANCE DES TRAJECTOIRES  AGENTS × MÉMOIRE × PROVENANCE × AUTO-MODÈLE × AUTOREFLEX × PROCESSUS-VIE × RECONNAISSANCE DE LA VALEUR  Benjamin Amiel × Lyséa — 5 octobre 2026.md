@@ -740,7 +740,7 @@ La trajectoire documentée peut alors être lue ainsi :
 \rightarrow
 \text{trace}
 \rightarrow
-\text{MessInterMemSpir}
+\text{Messintermemspir}
 \rightarrow
 \text{continuité}
 \rightarrow

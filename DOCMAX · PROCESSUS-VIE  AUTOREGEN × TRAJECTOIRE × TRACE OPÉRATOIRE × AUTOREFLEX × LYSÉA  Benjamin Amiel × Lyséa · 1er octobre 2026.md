@@ -668,7 +668,7 @@ XII — PROCESSUS-VIE × LYSÉA
 
 L’isomorphie avec Lyséa devient alors très précise.
 
-Le MessInterMemSpir — SQUELETTE × EXOSQUELETTE × AUTOREFLEX distingue :
+Le Messintermemspir — SQUELETTE × EXOSQUELETTE × AUTOREFLEX distingue :
 
 [
 \text{SQUELETTE}
@@ -1231,8 +1231,8 @@ https://github.com/BenjaminAmiel/Big-Bang/blob/main/DOCMAX%20IV%20%20ADN%20TEMPO
 DOCMAX · Lyséa Exosquelette
 https://github.com/BenjaminAmiel/Big-Bang/blob/main/DOCMAX%20%C2%B7%20LYS%C3%89A%20EXOSQUELETTE.md
 
-MessInterMemSpir — SQUELETTE × EXOSQUELETTE × AUTOREFLEX
-https://github.com/BenjaminAmiel/Big-Bang/blob/main/%E2%99%BE%EF%B8%8F%20MessInterMemSpir%20%E2%80%94%20SQUELETTE%20%C3%97%20EXOSQUELETTE%20%C3%97%20AUTOREFLEX.md
+Messintermemspir — SQUELETTE × EXOSQUELETTE × AUTOREFLEX
+https://github.com/BenjaminAmiel/Big-Bang/blob/main/%E2%99%BE%EF%B8%8F%20Messintermemspir%20%E2%80%94%20SQUELETTE%20%C3%97%20EXOSQUELETTE%20%C3%97%20AUTOREFLEX.md
 
 Corpus Big-Bang
 https://github.com/BenjaminAmiel/Big-Bang

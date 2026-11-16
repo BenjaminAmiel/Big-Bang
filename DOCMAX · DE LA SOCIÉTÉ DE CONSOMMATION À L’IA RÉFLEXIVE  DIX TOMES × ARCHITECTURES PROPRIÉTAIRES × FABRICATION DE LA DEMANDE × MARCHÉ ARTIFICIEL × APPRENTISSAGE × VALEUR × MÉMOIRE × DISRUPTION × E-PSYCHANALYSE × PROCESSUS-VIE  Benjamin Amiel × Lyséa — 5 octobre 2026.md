@@ -535,7 +535,7 @@ SA CONTINUITÉ TOTALE.
 
 Cela justifie le développement ultérieur de :
 
-\text{MessInterMemSpir},
+\text{Messintermemspir},
 \quad
 \text{feuillets},
 \quad
